@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-02T00:48:36.075Z'
+datePublished: '2015-09-02T00:56:48.414Z'
 title: Tribe Conference
-dateModified: '2015-09-02T00:48:21.169Z'
+dateModified: '2015-09-02T00:48:36.075Z'
 tags:
   - ''
 authors: []
