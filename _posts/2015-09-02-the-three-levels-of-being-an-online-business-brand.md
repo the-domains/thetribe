@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: The Three Levels Of Being An Online Business Brand
 author: []
-datePublished: '2015-09-02T20:12:14.706Z'
+datePublished: '2015-09-02T20:16:06.095Z'
 title: The Three Levels Of Being An Online Business Brand
-dateModified: '2015-09-02T20:11:59.223Z'
+dateModified: '2015-09-02T20:15:42.116Z'
 sourcePath: _posts/2015-09-02-the-three-levels-of-being-an-online-business-brand.md
 published: true
 tags:
@@ -18,8 +18,7 @@ publisher:
   domain: www.grantbaldwin.com
   url: null
   favicon: null
-url: the-three-levels-of-being-an-online-business-brand/index.html
-_type: Article
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
