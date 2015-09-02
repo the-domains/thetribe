@@ -19,8 +19,8 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'Great session this morning at #tribeconf with @timgrahl Thank you for being authentic and transparent.'
-datePublished: '2015-09-02T00:56:48.391Z'
-dateModified: '2015-09-02T00:51:59.322Z'
+datePublished: '2015-09-02T19:02:17.132Z'
+dateModified: '2015-09-02T00:56:48.391Z'
 sourcePath: _posts/2015-09-01-great-session-this-morning-at-tribeconf-with-timgrahl-than.md
 published: true
 tags:
