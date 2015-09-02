@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: The Three Levels Of Being An Online Business Brand
 author: []
-datePublished: '2015-09-02T20:16:06.095Z'
-title: The Three Levels Of Being An Online Business Brand
-dateModified: '2015-09-02T20:15:42.116Z'
+datePublished: '2015-09-02T20:19:53.327Z'
+title: 'The Three Levels Of Being An Online Business Brand In the online business space, there are a lot of big name brands. People everyone knows and whose names we frequently throw around as success stories and case studies.'
+dateModified: '2015-09-02T20:19:38.413Z'
 sourcePath: _posts/2015-09-02-the-three-levels-of-being-an-online-business-brand.md
 published: true
 tags:
@@ -24,9 +24,7 @@ _context: 'http://schema.org'
 ---
 ![](http://www.grantbaldwin.com/wp-content/uploads/2015/08/three-levels-being-online-business-brand.jpg)
 
-# The Three Levels Of Being An Online Business Brand
-
-In the online business space, there are a lot of big name brands. People everyone knows and whose names we frequently throw around as success stories and case studies.
+# 
 
 When someone wants to start an online business, they often look to these big names as examples of what they want to build someday.
 
