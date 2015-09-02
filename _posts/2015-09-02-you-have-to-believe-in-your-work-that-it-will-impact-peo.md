@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/7A1L2fAza8/'
 title: "\"You have to believe in your work... that it will impact people's lives.\" - @timgrahl #TribeConf"
-datePublished: '2015-09-02T19:27:03.060Z'
-dateModified: '2015-09-02T19:11:03.128Z'
+datePublished: '2015-09-02T19:28:57.265Z'
+dateModified: '2015-09-02T19:27:03.060Z'
 sourcePath: _posts/2015-09-02-you-have-to-believe-in-your-work-that-it-will-impact-peo.md
 published: true
 _type: Photograph
