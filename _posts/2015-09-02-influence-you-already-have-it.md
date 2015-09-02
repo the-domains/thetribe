@@ -21,8 +21,8 @@ author:
 related: []
 app_links: []
 title: Influence. You Already Have It.
-datePublished: '2015-09-02T01:49:17.547Z'
-dateModified: '2015-09-02T00:40:43.699Z'
+datePublished: '2015-09-02T02:00:15.789Z'
+dateModified: '2015-09-02T01:49:17.547Z'
 sourcePath: _posts/2015-09-02-influence-you-already-have-it.md
 published: true
 tags:
