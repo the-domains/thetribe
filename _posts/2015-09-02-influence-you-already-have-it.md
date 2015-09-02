@@ -1,14 +1,7 @@
 ---
-author:
-  - name: joshua becker
-    url: null
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.becomingminimalist.com'
-  name: Becoming Minimalist
-  favicon: 'http://www.becomingminimalist.com/wp-content/themes/becoming-minimalist/images/favicon.ico'
-  domain: www.becomingminimalist.com
+isBasedOnUrl: 'http://www.becomingminimalist.com/influence/'
+inLanguage: en
+starred: false
 keywords:
   - influence
   - lives
@@ -21,16 +14,27 @@ keywords:
   - on-line
   - crummier
 description: "\"You don't have to be a 'person of influence' to be influential. In fact, the most influential people in my life are probably not even aware of the things they've taught me.\" -Scott Adams Our lives matter. This is indeed life-giving news to each of us."
-inLanguage: en
+author:
+  - name: joshua becker
+    url: null
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.becomingminimalist.com/influence/'
 title: Influence. You Already Have It.
-datePublished: '2015-09-02T00:35:23.740Z'
-dateModified: '2015-09-02T00:35:05.642Z'
+datePublished: '2015-09-02T00:40:43.699Z'
+dateModified: '2015-09-02T00:40:31.818Z'
 sourcePath: _posts/2015-09-02-influence-you-already-have-it.md
 published: true
-_context: 'http://schema.org'
+tags:
+  - ''
+authors: []
+publisher:
+  name: Becoming Minimalist
+  domain: www.becomingminimalist.com
+  url: 'http://www.becomingminimalist.com'
+  favicon: 'http://www.becomingminimalist.com/wp-content/themes/becoming-minimalist/images/favicon.ico'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
-<article style=""><h1>Influence&amp;period; You Already Have It&amp;period;</h1><p>"You don't have to be a 'person of influence' to be influential&amp;period; In fact&amp;comma; the most influential people in my life are probably not even aware of the things they've taught me&amp;period;" -Scott Adams Our lives matter&amp;period; This is indeed life-giving news to each of us&amp;period;</p><img src="http://www.becomingminimalist.com/wp-content/uploads/2015/08/influence.jpg" /></article>
+<article style=""><h1>Influence. You Already Have It.</h1><p>"You don't have to be a 'person of influence' to be influential. In fact, the most influential people in my life are probably not even aware of the things they've taught me." -Scott Adams Our lives matter. This is indeed life-giving news to each of us.</p><img src="http://www.becomingminimalist.com/wp-content/uploads/2015/08/influence.jpg" /></article>
