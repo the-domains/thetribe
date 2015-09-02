@@ -46,9 +46,9 @@ color:
     - '#595959'
     - '#b85b68'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: follow
     url: null
