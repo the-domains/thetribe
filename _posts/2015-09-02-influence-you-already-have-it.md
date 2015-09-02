@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.becomingminimalist.com/influence/'
 title: Influence. You Already Have It.
-datePublished: '2015-09-02T00:35:05.642Z'
-dateModified: '2015-09-02T00:34:23.976Z'
+datePublished: '2015-09-02T00:35:23.740Z'
+dateModified: '2015-09-02T00:35:05.642Z'
 sourcePath: _posts/2015-09-02-influence-you-already-have-it.md
 published: true
 _context: 'http://schema.org'
