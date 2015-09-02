@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-02T00:12:55.879Z'
+datePublished: '2015-09-02T00:21:03.908Z'
 title: 3 People Every Writer Needs in Their Creative Collective3 People Every Writer Needs in Their Creative Collective
-dateModified: '2015-09-02T00:12:39.298Z'
+dateModified: '2015-09-02T00:20:49.051Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-01-3-people-every-writer-needs-in-their-creative-collective3-pe.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 3-people-every-writer-needs-in-their-creative-collective3-pe/index.html
-_type: WebPage
+_type: Article
 _context: 'http://schema.org'
 
 ---
