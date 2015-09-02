@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/7ELT8IMtgg/'
 title: 'Working on new coloring pages tonight for an exciting collaboration! Love this quote I heard over the weekend at #tribeconf from @joshua_becker. #thisgirlsdoodles'
-datePublished: '2015-09-02T19:11:15.585Z'
-dateModified: '2015-09-02T19:10:12.786Z'
+datePublished: '2015-09-02T19:14:02.726Z'
+dateModified: '2015-09-02T19:11:15.585Z'
 sourcePath: _posts/2015-09-02-working-on-new-coloring-pages-tonight-for-an-exciting-collab.md
 published: true
 _type: Photograph
