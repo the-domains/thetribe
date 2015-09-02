@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: The Most Overlooked Piece of Real Estate on Your Blog
 author: []
-datePublished: '2015-09-02T18:53:40.299Z'
+datePublished: '2015-09-02T18:58:38.663Z'
 title: ''
-dateModified: '2015-09-02T18:46:59.137Z'
+dateModified: '2015-09-02T18:58:23.673Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-02-the-most-overlooked-piece-of-real-estate-on-your-blog.md
@@ -18,8 +18,7 @@ publisher:
   domain: goinswriter.com
   url: null
   favicon: null
-url: the-most-overlooked-piece-of-real-estate-on-your-blog/index.html
-_type: WebPage
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
