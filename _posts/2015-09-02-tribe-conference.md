@@ -5,21 +5,21 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-02T00:56:48.414Z'
+datePublished: '2015-09-02T01:47:17.614Z'
 title: Tribe Conference
-dateModified: '2015-09-02T00:48:36.075Z'
+dateModified: '2015-09-02T01:47:07.191Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-02-tribe-conference.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-09-02-tribe-conference.md
-published: true
 url: tribe-conference/index.html
-_type: WebPage
+_type: Article
 _context: 'http://schema.org'
 
 ---
