@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: The Most Overlooked Piece of Real Estate on Your Blog
 author: []
-datePublished: '2015-09-02T18:37:29.507Z'
+datePublished: '2015-09-02T18:38:43.219Z'
 title: ''
-dateModified: '2015-09-02T18:37:18.982Z'
+dateModified: '2015-09-02T18:37:29.507Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-02-the-most-overlooked-piece-of-real-estate-on-your-blog.md
