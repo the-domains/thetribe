@@ -1,24 +1,24 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: The most important thing you can do is fight for the rawness and truth of your own voice. Finding your voice comes when you find yourself.
 title: Find Your Tribe
-dateModified: '2015-09-03T23:39:30.192Z'
+dateModified: '2015-09-03T23:44:12.425Z'
 tags:
   - ''
+datePublished: '2015-09-03T23:44:19.748Z'
+sourcePath: _posts/2015-09-03-find-your-tribe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-03T23:39:46.536Z'
-sourcePath: _posts/2015-09-03-find-your-tribe.md
-published: true
 url: find-your-tribe/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ee1c044-1523-44b8-81d1-b6f60b90e8e4.jpg)
