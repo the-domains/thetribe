@@ -5,8 +5,15 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 23:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 23:10:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Need I say more.]]></title>
+            <description><![CDATA[<article><h1>Need I say more.</h1><img src="https://igcdn-photos-c-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/e15/11184548_455040487995346_1406721199_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/1yp5ZMoZMb/</link>
+            <guid isPermaLink="false">1068063b-209b-4375-869b-b6bde3856cd4</guid>
+            <pubDate>Thu, 03 Sep 2015 23:09:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a0dd949-3667-45b3-8304-60c897237f53.gif">]]></description>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/7JibLFoZDQ/</link>
             <guid isPermaLink="false">38652c33-5be0-4a14-8c80-6410dfebafb1</guid>
             <pubDate>Thu, 03 Sep 2015 00:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sketchnotes from Tribe Conference 2015]]></title>
-            <description><![CDATA[<article><h1>Sketchnotes from Tribe Conference 2015</h1><p>This past weekend I had the pleasure of attending Tribe Conference, a great event put on by Jeff Goins and his team. Tribe was the best bang-for-your-buck conference I've ever attended, an amazing value for the community and speakers present. One way I was happy to contribute was with my sketchnotes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e848cfc-85eb-4262-b4ab-28dad5325bb4.jpg"></article>]]></description>
-            <link>http://mattragland.com/sketchnotes-tribeconf15</link>
-            <guid isPermaLink="false">dd4df812-d0cc-4d71-964a-aa8f5263e5f7</guid>
-            <pubDate>Thu, 03 Sep 2015 01:28:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
