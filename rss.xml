@@ -5,8 +5,15 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 23:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 23:29:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Write what will change one person&apos;s life&comma; and you&apos;ll change the world&period; &num;tribeconf &commat;allyvest" src="https://pbs.twimg.com/media/CNno3bHWcAAzQAq.jpg:large">]]></description>
+            <link>https://twitter.com/sjwimer7/status/637796866223017984</link>
+            <guid isPermaLink="false">2f77d8a0-8323-48d7-8d77-aebae0d07c99</guid>
+            <pubDate>Thu, 03 Sep 2015 23:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bravo @JeffGoins and team. #tribeconf was a hit. I think we are all leaving more inspired and equipped to go forth and create.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/6--wF7IZCH/</link>
             <guid isPermaLink="false">4528bf52-415c-45ed-8798-e22012364e1e</guid>
             <pubDate>Thu, 03 Sep 2015 22:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do good. Do it well. Do it together. - @chrismarlow #tribeconf #helponenow @helponenow]]></title>
-            <description><![CDATA[<article><h1>Do good. Do it well. Do it together. - @chrismarlow #tribeconf #helponenow @helponenow</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11917804_827999817313236_1494258693_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/7JibLFoZDQ/</link>
-            <guid isPermaLink="false">38652c33-5be0-4a14-8c80-6410dfebafb1</guid>
-            <pubDate>Thu, 03 Sep 2015 00:55:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
