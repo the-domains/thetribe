@@ -3,40 +3,45 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "The Tribe Conference is a marketing conference for people who don't think of themselves as marketers."
-title: Find Your Tribe 2
-dateModified: '2015-09-03T20:39:58.092Z'
+description: The most important thing you can do is fight for the rawness and truth of your own voice. Finding your voice comes when you find yourself.
+title: Find Your Tribe
+dateModified: '2015-09-03T23:39:30.192Z'
 tags:
   - ''
-datePublished: '2015-09-03T20:40:15.829Z'
-sourcePath: _posts/2015-09-03-find-your-tribe.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-url: find-your-tribe-2/index.html
-_type: Article
+datePublished: '2015-09-03T23:39:46.536Z'
+sourcePath: _posts/2015-09-03-find-your-tribe.md
+published: true
+url: find-your-tribe/index.html
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2444b0db-312f-44d2-9cdd-2a0c3577b07f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ee1c044-1523-44b8-81d1-b6f60b90e8e4.jpg)
 
-# Find Your Tribe
+# FIND YOUR TRIBE
 
-So this past weekend Julia and I attended the first ever Tribe Conference. This event was organzine by my friend Jeff Goins, and I was not sure what to expect.
+So this past weekend Julia and I attended the first ever Tribe Conference. This event was organzine by my friend Jeff Goins, and I was not sure what to expect. 
+
 The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. 
-It's a large-scale workshop that will give you a roadmap to find your tribe and give you the space to implement it.This two-day event is packed full of inspiring speakers, practical content, and unforgettable experiences. But this is more than an event.
-You'll set into motion a plan you can keep improving on for years to come. You won't leave the Tribe Conference with a notebook full of ideas and nothing checked off your to-do list. 
 
-So with that being said, what did we take away from the conference. Here are my TOP TEN take away's. 
+It's a large-scale workshop that will give you a roadmap to find your tribe and give you the space to implement it.This two-day event is packed full of inspiring speakers, practical content, and unforgettable experiences. But this is more than an event.
+You'll set into motion a plan you can keep improving on for years to come. 
+
+You won't leave the Tribe Conference with a notebook full of ideas and nothing checked off your to-do list. 
+So with that being said, what did we take away from the conference. 
+
+Here are my TOP TEN take away's.
 
 1\. The real meaning of S.H.A.M.E- Should Have Already Mastered Everything. -@JeffGoins 
 
 2\. "Embrace the mess"- @JeffGoins 
 
-3\. "Dying is easy...living is the hard part." -@allyvest
+3\. "Dying is easy...living is the hard part." -@allyvest 
 
 4\. All communication is marketing. Everything you write, do, and say.
 
