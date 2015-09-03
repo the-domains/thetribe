@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/7BKgbqyyZO/'
 title: '#tribeconf'
-datePublished: '2015-09-03T22:38:33.649Z'
-dateModified: '2015-09-03T22:37:05.962Z'
+datePublished: '2015-09-03T22:43:19.990Z'
+dateModified: '2015-09-03T22:38:33.649Z'
 sourcePath: _posts/2015-09-03-tribeconf.md
 published: true
 _type: Photograph
