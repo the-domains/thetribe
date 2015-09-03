@@ -5,7 +5,7 @@ starred: false
 keywords: []
 description: There is nothing more valuable in the whole world than finding and connecting the rawness and truth of your own voice.
 title: FIND YOUR TRIBE
-dateModified: '2015-09-03T19:16:12.803Z'
+dateModified: '2015-09-03T19:16:30.312Z'
 tags:
   - ''
 authors: []
@@ -14,7 +14,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-03T19:16:30.312Z'
+datePublished: '2015-09-03T19:20:57.473Z'
 sourcePath: _posts/2015-09-03-find-your-tribe.md
 published: true
 url: find-your-tribe/index.html
