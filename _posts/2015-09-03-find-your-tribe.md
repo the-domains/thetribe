@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: "The Tribe Conference is a marketing conference for people who don't think of themselves as marketers."
 title: Find Your Tribe 2
-dateModified: '2015-09-03T20:37:54.390Z'
+dateModified: '2015-09-03T20:39:58.092Z'
 tags:
   - ''
-datePublished: '2015-09-03T20:38:11.427Z'
+datePublished: '2015-09-03T20:40:15.829Z'
 sourcePath: _posts/2015-09-03-find-your-tribe.md
 published: true
 authors: []
