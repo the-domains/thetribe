@@ -5,10 +5,10 @@ starred: false
 keywords: []
 description: "The Tribe Conference is a marketing conference for people who don't think of themselves as marketers."
 title: Find Your Tribe 2
-dateModified: '2015-09-03T20:19:44.528Z'
+dateModified: '2015-09-03T20:23:13.448Z'
 tags:
   - ''
-datePublished: '2015-09-03T20:20:03.306Z'
+datePublished: '2015-09-03T20:23:33.360Z'
 sourcePath: _posts/2015-09-03-find-your-tribe.md
 published: true
 authors: []
@@ -21,7 +21,9 @@ url: find-your-tribe-2/index.html
 _type: WebPage
 
 ---
-# Find Your Tribe 3
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2444b0db-312f-44d2-9cdd-2a0c3577b07f.jpg)
+
+# Find Your Tribe
 
 So this past weekend Julia and I attended the first ever Tribe Conference. This event was organzine by my friend Jeff Goins, and I was not sure what to expect.
 The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. 
