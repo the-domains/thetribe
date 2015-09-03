@@ -21,8 +21,8 @@ author:
 related: []
 app_links: []
 title: Sketchnotes from Tribe Conference 2015
-datePublished: '2015-09-02T19:32:19.683Z'
-dateModified: '2015-09-02T19:30:38.385Z'
+datePublished: '2015-09-03T01:28:41.399Z'
+dateModified: '2015-09-03T01:28:26.469Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-02-sketchnotes-from-tribe-conference-2015.md
