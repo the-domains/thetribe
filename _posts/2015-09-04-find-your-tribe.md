@@ -3,11 +3,11 @@ isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e24d56f
 inLanguage: null
 starred: false
 keywords: []
-description: ''
+description: "The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. "
 author: []
-datePublished: '2015-09-04T20:47:06.070Z'
+datePublished: '2015-09-04T20:56:06.215Z'
 title: FIND YOUR TRIBE
-dateModified: '2015-09-04T20:46:49.776Z'
+dateModified: '2015-09-04T20:55:30.947Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-04-find-your-tribe.md
@@ -22,6 +22,6 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-![https://jeffgoins.leadpages.co/tribecon2016/](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e24d56f-7fde-4b74-927e-1f435362ffd4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e24d56f-7fde-4b74-927e-1f435362ffd4.jpg)
 
 ##
