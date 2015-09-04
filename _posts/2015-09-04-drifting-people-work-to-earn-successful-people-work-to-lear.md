@@ -43,9 +43,9 @@ description: Drifting people work to earn. Successful people work to learn.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/WhitneyEnglish/status/636614744506413056'
-datePublished: '2015-09-04T18:58:58.674Z'
+datePublished: '2015-09-04T19:08:28.103Z'
 title: ''
-dateModified: '2015-09-04T18:58:01.561Z'
+dateModified: '2015-09-04T18:58:58.674Z'
 sourcePath: _posts/2015-09-04-drifting-people-work-to-earn-successful-people-work-to-lear.md
 published: true
 _type: Comment
