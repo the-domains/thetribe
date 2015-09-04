@@ -43,9 +43,9 @@ description: "My #sketchnotes from @grantbaldwin's great talk at @jeffgoins #tri
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/mattragland/status/639795190891446273'
-datePublished: '2015-09-04T16:47:40.978Z'
+datePublished: '2015-09-04T16:51:15.672Z'
 title: ''
-dateModified: '2015-09-04T16:42:30.393Z'
+dateModified: '2015-09-04T16:47:40.978Z'
 sourcePath: _posts/2015-09-04-my-sketchnotes-from-grantbaldwins-great-talk-at-jeffgoin.md
 published: true
 _type: Photograph
