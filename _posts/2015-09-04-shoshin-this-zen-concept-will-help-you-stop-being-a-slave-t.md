@@ -18,8 +18,8 @@ author: []
 related: []
 app_links: []
 title: 'Shoshin: This Zen Concept Will Help You Stop Being a Slave to Old Behaviors and Beliefs'
-datePublished: '2015-09-04T19:55:24.424Z'
-dateModified: '2015-09-04T19:55:04.813Z'
+datePublished: '2015-09-04T21:32:57.380Z'
+dateModified: '2015-09-04T19:55:24.424Z'
 tags:
   - ''
 authors: []
