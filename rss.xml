@@ -5,8 +5,15 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 00:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 00:02:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14de5208-4208-4367-a655-229a73607eff.gif">]]></description>
+            <link>https://thegrid.ai/thetribe/98e8dfaf-e08a-4df1-a5a4-3474bb41b418/index.html</link>
+            <guid isPermaLink="false">98e8dfaf-e08a-4df1-a5a4-3474bb41b418</guid>
+            <pubDate>Fri, 04 Sep 2015 00:02:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Find Your Tribe]]></title>
             <description><![CDATA[<article><h1>Find Your Tribe</h1><p>The most important thing you can do is fight for the rawness and truth of your own voice. Finding your voice comes when you find yourself.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ee1c044-1523-44b8-81d1-b6f60b90e8e4.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/7BKgbqyyZO/</link>
             <guid isPermaLink="false">886ea4bd-e5f0-4d44-bdfb-aa467c87048e</guid>
             <pubDate>Thu, 03 Sep 2015 22:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Love Like Lightening" A new song and a way to live. A chance to name a new song by Carl Dylan. tribeconf @carldylan]]></title>
-            <description><![CDATA[<article><h1>"Love Like Lightening" A new song and a way to live. A chance to name a new song by Carl Dylan. tribeconf @carldylan</h1><img src="https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/11934899_481425718705125_114835531_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/7AZBxjkbFz/</link>
-            <guid isPermaLink="false">a3e7a1ec-4cda-4ee2-a782-38993ef1d3d3</guid>
-            <pubDate>Thu, 03 Sep 2015 22:38:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
