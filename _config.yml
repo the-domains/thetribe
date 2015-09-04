@@ -1,9 +1,7 @@
-favicon: null
 name: TheTribe
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.49564
+typography_spectrum: 1
 collections:
   - filter:
       notType:
@@ -28,28 +26,30 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#d40000'
+    - '#800000'
+    - '#ff2a2a'
+    - '#ff8080'
+    - '#ffd5d5'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose:
   - name: follow
     url: null
     item: 3646ec0f-28ea-4d62-937f-fe4eb0146eb7
-color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 1
-  brandColors:
-    - '#ffffff'
-    - '#3f0108'
-    - '#ab0614'
-    - '#d08888'
-    - '#dfc7c5'
-  lightness: 1
-typography_spectrum: 1
-layout_spectrum: 0.3786251
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
