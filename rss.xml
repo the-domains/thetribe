@@ -5,8 +5,15 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 20:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 20:18:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f130ac4-2785-4c0f-81df-65ab86affee5.gif">]]></description>
+            <link>https://thegrid.ai/thetribe/2664693e-5ed7-426e-b952-54f7b23de1e6/index.html</link>
+            <guid isPermaLink="false">2664693e-5ed7-426e-b952-54f7b23de1e6</guid>
+            <pubDate>Fri, 04 Sep 2015 20:18:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>When we share the table, it gets bigger. -@JeffGoins #tribeconf #TribeWriters</p>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Your Mistakes Don't Define You, They Teach You</h1><p>Sometimes, I even amaze myself at how many things I can screw up in a short amount of time. Just the other day, a friend pointed out I had inadvertently plagiarized his work on my blog. He was beyond gracious about it, but I was mortified.</p><img src="http://goinswriter.com/wp-content/uploads/plane-crash.jpg"></article>]]></description>
             <link>http://goinswriter.com/mistakes-dont-define</link>
             <guid isPermaLink="false">15ae31bc-e885-40ce-bd9a-4ed5cdef570c</guid>
-            <pubDate>Fri, 04 Sep 2015 15:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Secret to a Successful Writing Career (Is Not What You Think)]]></title>
-            <description><![CDATA[<article><h1>The Secret to a Successful Writing Career (Is Not What You Think)</h1><p>Do you want to know what the secret to a successful career in just about any field is? It's failure. As a writer, I've experienced this first hand. But what I've discovered through the process is we often misinterpret failure. Most of us treat as an obstacle to be avoided.</p><img src="http://goinswriter.com/wp-content/uploads/writing-career-success.jpg"></article>]]></description>
-            <link>http://goinswriter.com/writing-career-success/</link>
-            <guid isPermaLink="false">97d9a393-4eaa-4163-bfd0-01a867582641</guid>
             <pubDate>Fri, 04 Sep 2015 15:57:01 GMT</pubDate>
         </item>
     </channel>
