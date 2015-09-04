@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: "The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves."
 author: []
-datePublished: '2015-09-04T21:33:53.722Z'
+datePublished: '2015-09-04T21:35:17.938Z'
 title: Find Your Tribe
-dateModified: '2015-09-04T21:33:39.296Z'
+dateModified: '2015-09-04T21:35:03.245Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-04-find-your-tribe.md
