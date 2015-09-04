@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'https://twitter.com/TribeConference/status/638079132283174912'
+inLanguage: en
+starred: false
+keywords:
+  - location
+  - tweet
+  - jeffgoins
+  - tribewriters
+  - tribeconf
+  - twitter
+  - share
+  - copying
+  - hiccup
+  - momentary
+description: 'When we share the table, it gets bigger. -@JeffGoins #tribeconf #TribeWriters'
 author:
   - name: tribeconference
     url: 'http://twitter.com/tribeconference'
@@ -23,33 +38,20 @@ author:
           - 108
           - 111
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - location
-  - tweet
-  - jeffgoins
-  - tribewriters
-  - tribeconf
-  - twitter
-  - share
-  - copying
-  - hiccup
-  - momentary
-description: 'When we share the table, it gets bigger. -@JeffGoins #tribeconf #TribeWriters'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/TribeConference/status/638079132283174912'
-datePublished: '2015-09-04T20:24:13.803Z'
+datePublished: '2015-09-04T21:38:41.976Z'
 title: ''
-dateModified: '2015-09-04T20:18:21.191Z'
+dateModified: '2015-09-04T21:27:30.420Z'
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 sourcePath: _posts/2015-09-04-when-we-share-the-table-it-gets-bigger-jeffgoins-tribec.md
 published: true
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> When we share the table&comma; it gets bigger&period; -&commat;JeffGoins &num;tribeconf &num;TribeWriters
+> When we share the table, it gets bigger. -@JeffGoins \#tribeconf
