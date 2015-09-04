@@ -5,7 +5,7 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 22:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 22:52:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,6 +13,13 @@
             <link>https://twitter.com/TribeConference/status/638079132283174912</link>
             <guid isPermaLink="false">6e4fe43f-e982-4e7c-b6f0-842143d8b746</guid>
             <pubDate>Fri, 04 Sep 2015 22:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ee1c11-d1d5-4811-9c33-41a8149e4426.gif">]]></description>
+            <link>https://thegrid.ai/thetribe/92408ece-98c1-491d-873a-c90252ac76be/index.html</link>
+            <guid isPermaLink="false">92408ece-98c1-491d-873a-c90252ac76be</guid>
+            <pubDate>Fri, 04 Sep 2015 22:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/7D64IZqcIe/</link>
             <guid isPermaLink="false">d1205082-f182-456c-b763-71527d4bf3e0</guid>
             <pubDate>Fri, 04 Sep 2015 16:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Mistakes Don't Define You, They Teach You]]></title>
-            <description><![CDATA[<article><h1>Your Mistakes Don't Define You, They Teach You</h1><p>Sometimes, I even amaze myself at how many things I can screw up in a short amount of time. Just the other day, a friend pointed out I had inadvertently plagiarized his work on my blog. He was beyond gracious about it, but I was mortified.</p><img src="http://goinswriter.com/wp-content/uploads/plane-crash.jpg"></article>]]></description>
-            <link>http://goinswriter.com/mistakes-dont-define</link>
-            <guid isPermaLink="false">15ae31bc-e885-40ce-bd9a-4ed5cdef570c</guid>
-            <pubDate>Fri, 04 Sep 2015 15:57:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
