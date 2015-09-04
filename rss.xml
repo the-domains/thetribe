@@ -5,8 +5,15 @@
         <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 16:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 16:42:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="My &num;sketchnotes from &commat;grantbaldwin&apos;s great talk at &commat;jeffgoins &num;tribeconf" src="https://pbs.twimg.com/media/COECVO2W8AAj3vU.jpg:large">]]></description>
+            <link>https://twitter.com/mattragland/status/639795190891446273</link>
+            <guid isPermaLink="false">711fddf6-09fe-42c3-af16-4cbc5e2d49f0</guid>
+            <pubDate>Fri, 04 Sep 2015 16:42:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About to enjoy sharing my musical stories with #tribeconf]]></title>
             <description><![CDATA[<article><h1>About to enjoy sharing my musical stories with #tribeconf</h1><img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/11326055_1036347596390195_737735340_n.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://instagram.com/p/6989eUkbBp/</link>
             <guid isPermaLink="false">47414eb7-6665-433c-b9da-2527f6ae812b</guid>
             <pubDate>Thu, 03 Sep 2015 23:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["If your dream does not require a team it is not large enough." Thank you @michaelhyatt for sharing with @jeffgoins at #TribeConf]]></title>
-            <description><![CDATA[<article><h1>"If your dream does not require a team it is not large enough." Thank you @michaelhyatt for sharing with @jeffgoins at #TribeConf</h1><img src="https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/11950742_479937815519685_1720371208_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/7BMurOIZGQ/</link>
-            <guid isPermaLink="false">5d5cd694-9270-45c2-b6ca-17c55c84b518</guid>
-            <pubDate>Thu, 03 Sep 2015 22:38:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
