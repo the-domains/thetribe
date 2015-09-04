@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: Every story of success is a story of community
 author: []
-datePublished: '2015-09-04T19:23:27.872Z'
+datePublished: '2015-09-04T19:24:34.686Z'
 title: FIND YOUR TRIBE
-dateModified: '2015-09-04T19:23:09.185Z'
+dateModified: '2015-09-04T19:23:27.872Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-04-find-your-tribe.md
