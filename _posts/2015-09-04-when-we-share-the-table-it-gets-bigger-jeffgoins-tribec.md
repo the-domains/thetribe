@@ -43,9 +43,9 @@ description: 'When we share the table, it gets bigger. -@JeffGoins #tribeconf #T
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/TribeConference/status/638079132283174912'
-datePublished: '2015-09-04T16:53:47.100Z'
+datePublished: '2015-09-04T16:58:36.683Z'
 title: ''
-dateModified: '2015-09-04T16:52:47.766Z'
+dateModified: '2015-09-04T16:53:47.100Z'
 sourcePath: _posts/2015-09-04-when-we-share-the-table-it-gets-bigger-jeffgoins-tribec.md
 published: true
 _type: Comment
