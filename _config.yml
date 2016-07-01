@@ -2,6 +2,7 @@ name: TheTribe
 favicon: null
 layout_spectrum: 0.38164
 typography_spectrum: 1
+style: the-composer
 collections:
   - filter:
       notType:
