@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T19:20:29.463Z'
+datePublished: '2016-07-18T19:21:19.064Z'
 sourcePath: _posts/2015-09-04-find-your-tribe.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-18T19:20:20.427Z'
+dateModified: '2016-07-18T19:21:13.197Z'
 title: Find Your Tribe
 tags:
   - ''
@@ -22,7 +22,7 @@ description: >-
   visit tribeconference.com
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
