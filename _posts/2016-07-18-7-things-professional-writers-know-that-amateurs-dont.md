@@ -1,17 +1,20 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: ''
-dateModified: '2016-07-18T19:36:57.453Z'
-datePublished: '2016-07-18T19:37:06.058Z'
+datePublished: '2016-07-18T19:38:54.537Z'
+dateModified: '2016-07-18T19:38:46.853Z'
 title: 7 Things Professional Writers Know That Amateurs Don’t
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e406d65e-9fbd-450a-bf22-4df1fa43474f.jpg
-starred: false
 sourcePath: _posts/2016-07-18-7-things-professional-writers-know-that-amateurs-dont.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: 7-things-professional-writers-know-that-amateurs-dont/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3250c8665feab2b319064e2f3c5327b/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe406d65e-9fbd-450a-bf22-4df1fa43474f.jpg&x=0&y=0)
