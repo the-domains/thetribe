@@ -1,15 +1,14 @@
 ---
-author:
-  - name: jeffgoins
-    url: 'https://instagram.com/jeffgoins'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://instagram.com/'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/857185b/images/ico/favicon.ico'
-  domain: instagram.com
+datePublished: '2016-07-18T19:08:56.900Z'
+sourcePath: _posts/2015-09-05-community-creates-opportunity-success.md
+inFeed: true
+authors: []
+hasPage: true
 keywords: []
+related: []
+author: []
+dateModified: '2016-07-18T19:08:36.610Z'
+title: ''
 app_links:
   - url: 'instagram://media?id=1067548610000739756'
     type: ios
@@ -19,14 +18,21 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/p/7Qsc3_jl2s/'
-title: 'Community creates opportunity. #success'
-datePublished: '2015-09-05T21:39:39.799Z'
-dateModified: '2015-09-05T21:35:44.328Z'
-sourcePath: _posts/2015-09-05-community-creates-opportunity-success.md
-published: true
-_type: Photograph
+publisher:
+  name: Instagram
+  domain: instagram.com
+  url: 'https://instagram.com/'
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/857185b/images/ico/favicon.ico
+description: Every Story of Success Is a Story of Community!
+inLanguage: null
+inNav: false
+starred: false
+url: community-creates-opportunity-success/index.html
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Community creates opportunity&period; &num;success](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e35/11374241_1642155499389221_188150673_n.jpg)
+![Community creates opportunity. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c703096df48951fcfe9e17d43999d090dbf64176.jpg)
+
+Every Story of Success Is a Story of Community!
