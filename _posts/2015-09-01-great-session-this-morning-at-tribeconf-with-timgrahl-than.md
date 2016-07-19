@@ -1,9 +1,15 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://instagram.com/p/7A7TA5IZKz/'
 inLanguage: null
-starred: false
 keywords: []
-description: ''
+description: >-
+  Great session this morning at #tribeconf with @timgrahl Thank you for being
+  authentic and transparent.
+datePublished: '2016-07-18T17:08:17.869Z'
+dateModified: '2016-07-18T17:08:13.800Z'
 author:
   - name: jeffrey_woods
     url: 'https://instagram.com/jeffrey_woods'
@@ -18,11 +24,9 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Great session this morning at #tribeconf with @timgrahl Thank you for being authentic and transparent.'
-datePublished: '2015-09-02T19:02:17.132Z'
-dateModified: '2015-09-02T00:56:48.391Z'
-sourcePath: _posts/2015-09-01-great-session-this-morning-at-tribeconf-with-timgrahl-than.md
-published: true
+title: Be Relentless.
+sourcePath: >-
+  _posts/2015-09-01-great-session-this-morning-at-tribeconf-with-timgrahl-than.md
 tags:
   - ''
 authors: []
@@ -30,7 +34,9 @@ publisher:
   name: Instagram
   domain: instagram.com
   url: 'https://instagram.com/'
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/7dce084/images/ico/favicon.ico'
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/bluebar/7dce084/images/ico/favicon.ico
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
