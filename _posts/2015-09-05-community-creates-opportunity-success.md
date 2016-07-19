@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T19:08:56.900Z'
+datePublished: '2016-07-18T19:11:49.644Z'
 sourcePath: _posts/2015-09-05-community-creates-opportunity-success.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-18T19:08:36.610Z'
+dateModified: '2016-07-18T19:11:46.292Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1067548610000739756'
@@ -33,6 +33,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![Community creates opportunity. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c703096df48951fcfe9e17d43999d090dbf64176.jpg)
-
-Every Story of Success Is a Story of Community!
+![Every Story of Success Is a Story of Community!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c703096df48951fcfe9e17d43999d090dbf64176.jpg)
