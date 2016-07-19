@@ -1,17 +1,17 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-18T19:38:54.537Z'
-dateModified: '2016-07-18T19:38:46.853Z'
-title: 7 Things Professional Writers Know That Amateurs Don’t
-author: []
+datePublished: '2016-07-18T19:40:17.799Z'
 sourcePath: _posts/2016-07-18-7-things-professional-writers-know-that-amateurs-dont.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-18T19:40:10.394Z'
+title: 7 Things Professional Writers Know That Amateurs Don’t
 publisher: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: 7-things-professional-writers-know-that-amateurs-dont/index.html
 _type: Article
@@ -45,7 +45,7 @@ _You have to know what you are before you can figure out what you want to do._
 
 Self-awareness is an important part of life, and it's especially important for writers. Because so much of what you create is tied to who you are, you have to get clear on your identity. But there's a right way and a wrong way to go about this.
 
-> You have to care about legacy more than ego.
+> _**You have to care about legacy more than ego.**_
 
 **2\. Amateurs want to arrive. Pros want to get better.**
 
