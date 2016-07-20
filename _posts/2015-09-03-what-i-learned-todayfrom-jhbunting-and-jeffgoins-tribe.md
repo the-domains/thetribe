@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T15:16:10.830Z'
+datePublished: '2016-07-20T15:16:14.373Z'
 sourcePath: _posts/2015-09-03-what-i-learned-todayfrom-jhbunting-and-jeffgoins-tribe.md
 isBasedOnUrl: 'https://instagram.com/p/6--wF7IZCH/'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: jeffrey_woods
     url: 'https://instagram.com/jeffrey_woods'
     avatar: {}
-dateModified: '2016-07-20T15:16:09.884Z'
+dateModified: '2016-07-20T15:16:13.934Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1062562545885352071'
