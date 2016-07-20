@@ -20,15 +20,15 @@ analytics:
   facebook: null
   twitter: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8621f87-4baf-4c82-9459-7d6914701930.png
-name: TheTribe
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd77a901-ad96-4b15-8257-0bdb8656cdbe.png
+name: Tribe Conference 2016
 cta:
   domain: null
   bucket: null
   version: null
 style: the-composer
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76e094d8-805f-4bd9-8d21-eb5f618896f1.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/374ddc06-e7d8-439a-a500-3d3ffe15fdbd.png
 collections:
   - filter:
       notType:
