@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TheTribe]]></title>
-        <description><![CDATA[TheTribe]]></description>
+        <title><![CDATA[Tribe Conference 2016]]></title>
+        <description><![CDATA[Tribe Conference 2016]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 00:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 02:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Secret to Building a Popular Blog]]></title>
+            <description><![CDATA[<article><h1>The Secret to Building a Popular Blog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dac288f-9efb-4d37-8131-d6bff31f4ccf.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c034e2fc-e819-4b38-aff5-8bafe05d5b19.jpg</link>
+            <guid isPermaLink="false">54c05b94-04ce-4d08-a557-9858c992b973</guid>
+            <pubDate>Wed, 20 Jul 2016 02:53:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fdf9dd7-bb71-4ee8-9406-bc3afae546b6.gif">]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a983fe77-2d88-4b99-a107-16e625d07d4e.jpg</link>
             <guid isPermaLink="false">64222206-b1ce-49fe-bf23-3ca5c2a04833</guid>
             <pubDate>Wed, 20 Jul 2016 00:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Secret to Building a Popular Blog]]></title>
-            <description><![CDATA[<article><h1>The Secret to Building a Popular Blog</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb48396db44e5d34265b507142a2831/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc034e2fc-e819-4b38-aff5-8bafe05d5b19.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c034e2fc-e819-4b38-aff5-8bafe05d5b19.jpg</link>
-            <guid isPermaLink="false">54c05b94-04ce-4d08-a557-9858c992b973</guid>
-            <pubDate>Mon, 18 Jul 2016 19:49:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Things Professional Writers Know That Amateurs Don’t]]></title>
