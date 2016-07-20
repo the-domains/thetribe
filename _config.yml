@@ -34,10 +34,6 @@ navigation:
       https://www.universe.com/events/tribe-conference-2016-tickets-franklin-HL2FYP
     name: Get Your Tickets Now
     type: external
-  - id: 'http://tribeconference.live/get-your-tickets/'
-    url: 'http://tribeconference.live/get-your-tickets/'
-    name: What is Tribe Conference
-    type: external
   - id: 'https://twitter.com/TribeConference'
     url: 'https://twitter.com/TribeConference'
     name: Twitter
