@@ -2,8 +2,7 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a983fe77-2d88-4b99-a107-16e625d07d4e.jpg
+isBasedOnUrl: https://www.universe.com/events/tribe-conference-2016-tickets-franklin-HL2FYP
 inLanguage: null
 keywords: []
 description: >-
