@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T18:02:12.561Z'
+datePublished: '2016-07-20T18:03:02.429Z'
 sourcePath: _posts/2016-07-20-get-your-tickets.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T18:02:11.790Z'
+dateModified: '2016-07-20T18:03:01.923Z'
 title: What is Tribe Conference
 publisher: {}
 description: >-
