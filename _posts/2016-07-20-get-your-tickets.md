@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:58:50.395Z'
+datePublished: '2016-07-20T18:00:23.584Z'
 sourcePath: _posts/2016-07-20-get-your-tickets.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T17:58:49.897Z'
+dateModified: '2016-07-20T18:00:23.088Z'
 title: Get Your Tickets
 publisher: {}
 description: >-
