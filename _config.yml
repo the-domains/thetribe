@@ -19,13 +19,16 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaefd6f6-657c-4977-a944-2014ff99217b.png
 name: TheTribe
 cta:
   domain: null
   bucket: null
   version: null
 style: the-composer
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d93dc6a7-e536-4e51-a667-caf3f1b16248.png
 collections:
   - filter:
       notType:
