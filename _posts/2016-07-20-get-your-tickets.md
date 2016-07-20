@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T18:04:16.876Z'
+datePublished: '2016-07-20T18:09:12.265Z'
 sourcePath: _posts/2016-07-20-get-your-tickets.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T18:04:16.399Z'
+dateModified: '2016-07-20T18:09:11.681Z'
 title: What is Tribe Conference
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ url: get-your-tickets/index.html
 _type: WebPage
 
 ---
-# [What is Tribe Conference][0]
+# What is Tribe Conference
 
 **The Tribe Conference is a marketing conference for people who don't think of themselves as marketers.**It's a gathering for **writers, artists, and creative entrepreneu**rs to grow their craft, share their work, and get the attention their work deserves.
 
@@ -30,5 +30,3 @@ This three-day event is packed full of inspiring speakers, practical content, an
 
 You won't leave the Tribe Conference with a notebook full of ideas and nothing checked off your to-do list. **You'll set into motion a plan you can keep improving on for years to come.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbc7d8bc-1ec9-401f-a465-03cb6abbe96e.png)
-
-[0]: https://www.universe.com/events/tribe-conference-2016-tickets-franklin-HL2FYP
