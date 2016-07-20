@@ -44,6 +44,10 @@ navigation:
       https://www.universe.com/dashboard/conversations/withUser/5669fe6f6ad9061d0f0022de
     name: Contact Us
     type: external
+  - id: 'http://tribeconference.live/get-your-tickets/'
+    url: 'http://tribeconference.live/get-your-tickets/'
+    name: What is Tribe Conference
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/374ddc06-e7d8-439a-a500-3d3ffe15fdbd.png
 collections:
