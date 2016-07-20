@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tribe Conference 2016]]></title>
-        <description><![CDATA[Tribe Conference 2016]]></description>
+        <title><![CDATA[TheTribe]]></title>
+        <description><![CDATA[TheTribe]]></description>
         <link>https://thegrid.ai/thetribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 00:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 00:44:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thetribe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Find Your Tribe]]></title>
+            <description><![CDATA[<article><h1>Find Your Tribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference. The next conference is Sept. 16-18 2016 I hope you can attend. For more details visit tribeconference.com</p></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a983fe77-2d88-4b99-a107-16e625d07d4e.jpg</link>
+            <guid isPermaLink="false">64222206-b1ce-49fe-bf23-3ca5c2a04833</guid>
+            <pubDate>Wed, 20 Jul 2016 00:44:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fdf9dd7-bb71-4ee8-9406-bc3afae546b6.gif">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/thetribe/7-things-professional-writers-know-that-amateurs-dont/index.html</link>
             <guid isPermaLink="false">853b3745-4556-4755-9057-9e2ddef4a364</guid>
             <pubDate>Mon, 18 Jul 2016 19:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Find Your Tribe]]></title>
-            <description><![CDATA[<article><h1>Find Your Tribe</h1><p>The Tribe Conference is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference. The next conference is Sept. 16-18 2016 I hope you can attend. For more details visit tribeconference.com</p></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a983fe77-2d88-4b99-a107-16e625d07d4e.jpg</link>
-            <guid isPermaLink="false">64222206-b1ce-49fe-bf23-3ca5c2a04833</guid>
-            <pubDate>Mon, 18 Jul 2016 19:21:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Community creates opportunity. #success]]></title>
