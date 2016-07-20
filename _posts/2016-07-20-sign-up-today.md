@@ -1,10 +1,12 @@
 ---
 description: ''
-dateModified: '2016-07-20T15:04:22.475Z'
-datePublished: '2016-07-20T15:04:23.161Z'
-title: 'September 16-18, 2016'
+dateModified: '2016-07-20T16:43:57.134Z'
+datePublished: '2016-07-20T16:43:57.658Z'
+title: Get Your Tickets
 author: []
 sourcePath: _posts/2016-07-20-sign-up-today.md
+publisher: {}
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -12,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# **September 16-18, 2016**
+# **Get Your Tickets**
 
 ### _**[The Tribe Conference][0]**_[is a marketing conference for people who don't think of themselves as marketers. It's a gathering for writers, artists, and creative entrepreneurs to grow their craft, share their work, and get the attention their work deserves. Here are some of my highlights of the conference. The next conference is Sept. 16-18 2016 Sign up ][0]_**[TODAY.][0]**_
 
