@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T18:00:54.548Z'
+datePublished: '2016-07-20T18:02:12.561Z'
 sourcePath: _posts/2016-07-20-get-your-tickets.md
 inFeed: false
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T18:00:53.910Z'
-title: Get Your Tickets
+dateModified: '2016-07-20T18:02:11.790Z'
+title: What is Tribe Conference
 publisher: {}
 description: >-
   The Tribe Conference is a marketing conference for people who don't think of
@@ -22,7 +22,7 @@ url: get-your-tickets/index.html
 _type: WebPage
 
 ---
-# [Get Your Tickets][0]
+# [What is Tribe Conference][0]
 
 **The Tribe Conference is a marketing conference for people who don't think of themselves as marketers.**It's a gathering for **writers, artists, and creative entrepreneu**rs to grow their craft, share their work, and get the attention their work deserves.
 
