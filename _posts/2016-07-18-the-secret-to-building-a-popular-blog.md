@@ -1,20 +1,20 @@
 ---
 description: ''
-dateModified: '2016-07-18T19:49:39.738Z'
-datePublished: '2016-07-18T19:49:53.256Z'
+dateModified: '2016-07-20T02:53:25.334Z'
+datePublished: '2016-07-20T02:53:26.987Z'
 title: The Secret to Building a Popular Blog
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c034e2fc-e819-4b38-aff5-8bafe05d5b19.jpg
-starred: false
 sourcePath: _posts/2016-07-18-the-secret-to-building-a-popular-blog.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb48396db44e5d34265b507142a2831/croprotate.jpg?cropheight=2593&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc034e2fc-e819-4b38-aff5-8bafe05d5b19.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dac288f-9efb-4d37-8131-d6bff31f4ccf.jpg)
 
 # The Secret to Building a Popular Blog
 
