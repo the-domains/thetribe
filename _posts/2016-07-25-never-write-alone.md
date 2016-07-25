@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-25T19:26:49.772Z'
+datePublished: '2016-07-25T23:23:29.965Z'
+sourcePath: _posts/2016-07-25-never-write-alone.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/331367f2-7134-4802-b5a5-530f08a97002.jpg
 author: []
 via: {}
-dateModified: '2016-07-25T19:26:45.035Z'
+dateModified: '2016-07-25T23:23:29.348Z'
 title: Never Write Alone
 publisher: {}
-description: >-
-  Instant access to a wealth of information and digital tools broke down the
-  walls of traditional publishing. The good news is anyone can write a book.
-  This is also the bad news.
+description: ''
 starred: false
-sourcePath: _posts/2016-07-25-never-write-alone.md
 inFeed: true
 hasPage: false
 inNav: false
