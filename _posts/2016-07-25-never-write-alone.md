@@ -1,19 +1,27 @@
 ---
-datePublished: '2016-07-25T23:24:15.671Z'
-sourcePath: _posts/2016-07-25-never-write-alone.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/331367f2-7134-4802-b5a5-530f08a97002.jpg
-author: []
-via: {}
-dateModified: '2016-07-25T23:24:15.057Z'
-title: Never Write Alone
-publisher: {}
-description: ''
-starred: false
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-25T23:27:56.828Z'
+dateModified: '2016-07-25T23:27:50.843Z'
+sourcePath: _posts/2016-07-25-never-write-alone.md
+author:
+  - name: ''
+    url: ''
+via: {}
+title: Never Write Alone
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+starred: false
+url: never-write-alone/index.html
+_type: Article
 
 ---
 # Never Write Alone
